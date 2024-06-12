@@ -181,7 +181,7 @@ function drawHealthBar(poke, max, current) {
 //    validate($(this), 1, 100);
 //});
 //HACK!!
-$(".leveloverride").val("50");
+$(".leveloverride").val("100");
 $(".ivsoverrideR1").val("31");
 $(".ivsoverrideL1").val("31");
 //HACK to fix the 55 bug? idk where it comes from
